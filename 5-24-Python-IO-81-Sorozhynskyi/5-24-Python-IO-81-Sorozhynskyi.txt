@@ -1,0 +1,9 @@
+def gello(op):
+    return 6 if op else 5
+
+
+def main():
+    bin = 0
+    a = 7
+    a -= gello(bin)
+    return a

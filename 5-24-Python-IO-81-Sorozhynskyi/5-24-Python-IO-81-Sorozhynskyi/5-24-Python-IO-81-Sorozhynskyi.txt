@@ -1,0 +1,9 @@
+def main):
+    bin = 0
+    a = 7
+    a -= hello(bin)
+    return a
+
+
+def hello(op):
+    return 6 if op else 5
